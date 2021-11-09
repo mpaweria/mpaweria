@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maitreyi Paweria</h1>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mpaweria&" alt="mpaweria" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mpaweria&" alt="mpaweria" /></p> -->
 <!--
 **mpaweria/mpaweria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
